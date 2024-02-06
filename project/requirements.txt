@@ -1,0 +1,16 @@
+awscli
+boto3
+flake8
+autopep8
+colorlog
+yapf
+ipython
+pandas
+openai
+langchain
+langchain-openai
+pypdf
+chromadb
+tiktoken
+torch
+spacy
