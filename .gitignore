@@ -162,4 +162,3 @@ logs
 .terraform
 .vscode/settings.json
 docker-compose.yml
-docker-compose.m1.yml
