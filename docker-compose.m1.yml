@@ -1,0 +1,4 @@
+version: "3"
+services:
+  rass-warehouse:
+    platform: linux/amd64
