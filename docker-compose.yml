@@ -13,4 +13,4 @@ services:
       - ENVIRONMENT=dev
       - PYTHONDONTWRITEBYTECODE=1
       - FARGATE=0
-      - OPENAI_API_KEY=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
+      - OPENAI_API_KEY=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
